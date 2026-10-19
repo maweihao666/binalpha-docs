@@ -1,0 +1,12 @@
+.env
+.env.*
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.pem
+*.key
+node_modules/
+__pycache__/
+
